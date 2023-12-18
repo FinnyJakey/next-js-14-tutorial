@@ -43,3 +43,10 @@ maker: Lama Dev
 running time: 4:05:52
 > Fullstack Blog Project
 
+## 🔴 Let’s build Dropbox 2.0 with NEXT.JS 14! (React, Clerk, Shadcn, Firebase, Drag/Drop, CRUD, TS)
+[![4](http://img.youtube.com/vi/FdEY-ZnEikg/0.jpg)](https://youtu.be/FdEY-ZnEikg)
+
+maker: Sonny Sangha
+
+running time: 3:00:56
+> Dropbox
